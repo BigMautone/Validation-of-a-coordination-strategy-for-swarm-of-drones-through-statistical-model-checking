@@ -1,5 +1,5 @@
 
-# Validation-of-a-coordination-strategy-for-swarm-of-drones-through-statistical-model-checking
+# Validation of a coordination strategy for swarm of drones through statistical model checking
 
 This project was my thesis for my Bachelor's degree. 
 
